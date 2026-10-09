@@ -1,0 +1,3 @@
+# Swap Mantle
+
+Swap Mantle tokens like ETH and USDC directly on Mantle's DEXes. See how MNT gas, AMM pools, slippage and approvals work before you trade, while keeping self-custody.
