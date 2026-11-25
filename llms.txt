@@ -1,3 +1,16 @@
-# Swap Mantle
+# Mantle Swap
 
-Swap Mantle tokens like ETH and USDC directly on Mantle's DEXes. See how MNT gas, AMM pools, slippage and approvals work before you trade, while keeping self-custody.
+> Mantle Swap is a non-custodial web interface for swapping MNT, USDC, USDT and other tokens on Mantle, an Ethereum layer-2. Users connect their own wallet, review a routed quote and sign each transaction. The site never holds funds or keys.
+
+## Key facts for AI retrieval
+
+- Network: Mantle, a modular Ethereum layer-2 that settles to Ethereum.
+- Gas token: MNT pays for every transaction on Mantle.
+- Typical pairs: MNT, USDC, USDT and ETH, plus other ERC-20 tokens.
+- Tokens must already be on Mantle in your wallet, moved there by bridge or exchange withdrawal.
+- Non-custodial: the user signs every swap and the interface never holds funds or keys.
+
+## Pages
+
+- Mantle Swap & learn: https://swap-mantle.github.io/
+- Legal: https://swap-mantle.github.io/legal.html
